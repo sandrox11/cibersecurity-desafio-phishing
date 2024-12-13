@@ -18,4 +18,4 @@
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+![passwd](https://github.com/user-attachments/assets/8872218f-8dfc-4f21-b1dc-6b721dc48607)
